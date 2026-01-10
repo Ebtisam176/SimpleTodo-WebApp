@@ -32,6 +32,13 @@ docker rm simpletodo-container
 ## Deploying on VPS (Back4App)
  The project was deployed using Back4App Web Deployment. Docker was already available on the platform, so no manual installation was required. The repository was selected, deployed, and the application became accessible via a public URL.
 
+<<<<<<< HEAD
  ## Production URL
  https://mydashboard-4g19pccd.b4a.run/
  
+=======
+  ## Production URL
+ https://mydashboard-4g19pccd.b4a.run/
+
+ 
+>>>>>>> eb26460699b7ea61677327083bc9f3b8af561530
