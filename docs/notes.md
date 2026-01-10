@@ -20,3 +20,6 @@ I learned how to:
 - Understand how branches and upstream tracking work
 
 This helped me understand how developers collaborate and manage project versions professionally.
+
+##  update Deploying on VPS (Back4App)
+At first, finding a free VPS was a bit challenging, so I used Back4App for the deployment link, like the one our instructor provided. It was easy to set up, and I felt happy when the app was working online. Later, I realized the link was temporary, but fortunately, I discovered this issue early. Even though it was temporary, this experience helped me understand deployment and Docker better, and it boosted my confidence in using Git, GitHub, and Docker for real projects.
